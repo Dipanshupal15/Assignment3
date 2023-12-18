@@ -1,0 +1,49 @@
+Que 1- What is use of Gitignore File in React Application ?
+Ans 1- In a React application (or any software project), the .gitignore file is used to specify intentionally untracked files or
+       directories that Git should ignore. These files are usually temporary or generated files, build artifacts, or sensitive information
+       that shouldn't be included in the version control system. The purpose of the .gitignore file is to prevent these files from being
+       inadvertently committed to the Git repository.
+
+Que 2- How we can create the React Application? Explain the all Steps for them.
+Ans 2- Creating a React application involves several steps, and the most common way to set up a new React project is by using the official
+       tool called Create React App. This tool provides a zero-configuration setup, allowing you to focus on building your React application
+       rather than configuring the build process. 
+
+       Step 1: Install Node.js and npm
+       Step 2: Install Create React App
+               Open your terminal or command prompt and run the following command to install 'Create React App'
+       Step 3: Create a New React Application
+               Once Create React App is installed, you can create a new React application using the following command.
+               Replace my-react-app with the desired name of your project:
+       Step 4: Navigate to the Project Directory
+               (cd my-react-app)
+       Step 5: Run the Development Server (npm start)
+
+Que 3- What do you know about NPM ?
+Ans 3- NPM is the default package manager for Node.js and JavaScript. It is used to manage and share packages (libraries) of JavaScript code,
+       making it easy for developers to reuse and distribute code. NPM plays a crucial role in the Node.js ecosystem and is widely used in both
+       frontend and backend development.
+
+Que 4- What are the advantages of using React ?
+Ans 4- React, a JavaScript library for building user interfaces, offers several advantages that contribute to its popularity and widespread adoption.
+       Here are some key advantages of using React:
+
+       1: Component-Based Architecture:
+          React follows a component-based architecture, allowing developers to build complex UIs by composing small, modular, and reusable components.
+          This promotes code reusability, maintainability, and scalability.
+
+       2: Virtual DOM:
+          Instead of updating the entire DOM when there's a change, React creates a virtual representation of the DOM in memory and updates
+          only the necessary parts.
+
+       3: JSX (JavaScript XML):
+          JSX is a syntax extension for JavaScript that allows developers to write HTML within JavaScript code. It provides a concise and readable
+          way to define UI components, making the code more expressive and maintainable.
+
+Que 5- What are the limitations of React ?
+Ans 5- Here are some limitations of react :
+
+       1. React is just a library. It is not a complete framework.
+       2. It has a huge library which takes time to understand.
+       3. It may be difficult for the new programmers to understand and code.
+       4. React uses inline templating and JSX, which may be difficult and act as a barrier.
